@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Jaclyn Peiser, Julian Mark, Hannah Ziegler",
+    "title": "As Amazon strike raises specter of delays, shoppers make backup plans - The Washington Post",
+    "description": "With holiday deliveries in the balance, some consumers express frustration with the walkout’s timing and are holding out hope packages will arrive in time.",
+    "url": "https://www.washingtonpost.com/business/2024/12/19/amazon-strike-orders-delays/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I7XQII4EK5KJ345GTSXBVGVABA.JPG&w=1440",
+    "publishedAt": "2024-12-20T04:18:00Z",
+    "content": "Shoppers are fretting over whether their packages will come on time for the holidays, as a recent burst of warehouse strikes threaten to disrupt the flow of Amazon deliveries with some consumers so f… [+5352 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Nick Miroff, Maria Sacchetti",
+    "title": "U.S. deportations at highest level since 2014, ICE report shows - The Washington Post",
+    "description": "U.S. Immigration and Customs Enforcement deported 271,484 immigrants to nearly 200 countries last fiscal year, according to the agency’s annual report.",
+    "url": "https://www.washingtonpost.com/immigration/2024/12/19/immigration-enforcement-deportations-biden/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEZLCIFHTVLHJN4ZYRZRRRHZN4_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-12-20T03:33:50Z",
+    "content": "U.S. Immigration and Customs Enforcement deported 271,484 immigrants to nearly 200 countries last fiscal year, the highest tally in a decade, according to the agencys annual report published Thursday… [+283 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Fenit Nirappil",
+    "title": "What to know about the bird flu outbreak as concerns about U.S. cases grow - The Washington Post",
+    "description": "The H5N1 strains are becoming more concerning as the first severe U.S. case has been detected and California declared a state of emergency.",
+    "url": "https://www.washingtonpost.com/health/2024/12/19/bird-flu-outbreak-symptoms-vaccine-explained/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBNLMG5O247CL66KYPPFAZI6PM_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-12-20T03:23:58Z",
+    "content": "The bird flu outbreak in the United States is becoming more concerning after California declared a state of emergency to confront the spread in dairy cows and Louisiana reported the first severe illn… [+293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NCAA.com"
+    },
+    "author": "NCAA.com",
+    "title": "Penn State vs. Nebraska volleyball: Score, live updates, how to watch NCAA semifinal - NCAA.com",
+    "description": "Live updates for the 2024 DI women's volleyball tournament semifinal between Penn State and Nebraska.",
+    "url": "https://www.ncaa.com/live-updates/volleyball-women/d1/penn-state-vs-nebraska-volleyball-score-live-updates-how-watch-ncaa-semifinal",
+    "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/images/2024-12/penn-state-nebraska.jpg",
+    "publishedAt": "2024-12-20T03:11:26Z",
+    "content": "Earlier this season (Nov. 29), then-No. 4 Penn State upset then-No. 2 Nebraska, snapping the Cornhuskers impressive 25-match win streak with a 3-1 victory (21-25, 25-14, 22-25, 23-25).\r\nHere are the … [+1262 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Charean Williams",
+    "title": "Cameron Dicker makes first successful free-kick FG since 1976 - NBC Sports",
+    "description": "Dicker's 57-yard kick was an NFL record for the longest fair-catch kick.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cameron-dicker-makes-first-successful-free-kick-fg-since-1976",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/85fae23/2147483647/strip/true/crop/4200x2363+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2Fe8%2Fcd9645b344ff8c6a5ac023845414%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D25028131",
+    "publishedAt": "2024-12-20T03:10:23Z",
+    "content": "Chargers kicker Cameron Dicker made the first successful fair-catch kick since 1976, and it was the longest such kick in NFL history.\r\nA little known NFL rule allows a team the right to take a free k… [+1293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Fulton County DA Fani Willis disqualified from Trump case - BBC.com",
+    "description": "The ruling reverses a previous decision from a Georgia court allowing Willis to stay on the case.",
+    "url": "https://www.bbc.com/news/articles/c77jdk4k717o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f08c/live/ada762b0-be1a-11ef-89ab-d55cbbf64b27.jpg",
+    "publishedAt": "2024-12-20T02:57:33Z",
+    "content": "The Georgia Court of Appeals removed Fulton County District Attorney Fani Willis from an election subversion case against President-elect Donald Trump. \r\nWillis is expected to appeal against the ruli… [+3182 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "Garrett Podell",
+    "title": "Broncos vs. Chargers live updates: NFL scores, game stats, highlights, where to watch 'Thursday Night Football - CBS Sports",
+    "description": "It's a battle for a playoff spot in the AFC between two divisional foes",
+    "url": "https://www.cbssports.com/nfl/news/broncos-vs-chargers-live-updates-nfl-scores-game-stats-highlights-where-to-watch-thursday-night-football/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/12/20/6e243a34-e26e-4c55-bdab-f18e4dcdb6c2/thumbnail/1200x675/ed94a69946e3a12492dd264e6028ceb7/mims-chargers-g.jpg",
+    "publishedAt": "2024-12-20T01:52:41Z",
+    "content": "The Denver Broncos (9-5) are 30 minutes away from their first playoff appearance since the 2015 season when they won Super Bowl 50 in Pro Football Hall of Fame quarterback Peyton Manning's swan song.… [+2502 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "HT News Desk",
+    "title": "Putin's big statement on ending Ukraine war: 'Russia ready to compromise with...' - Hindustan Times",
+    "description": "Putin said that Russia was ready to negotiate with anyone, including Ukraine President Volodymyr Zelenskyy | World News",
+    "url": "https://www.hindustantimes.com/world-news/putins-big-statement-on-ending-ukraine-war-russia-ready-to-compromise-with-101734652238366.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/12/20/1600x900/putin_trump_1734653560290_1734653560578.JPG",
+    "publishedAt": "2024-12-20T00:30:48Z",
+    "content": "Russia President Vladimir Putin said on Thursday that he is open to compromising over the Ukraine war in talks with US President-elect Donald Trump, emphasising that there are no preconditions for di… [+2545 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Reuters",
+    "title": "Nike CEO says sneaker giant ‘lost its obsession with sport,’ vows to revive iconic brand - New York Post ",
+    "description": "Analysts said CEO Elliott Hill faces tough critics and a long slog to claw back lost market.",
+    "url": "https://nypost.com/2024/12/19/business/nike-ceo-says-sneaker-giant-lost-its-obsession-with-sport/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/nike-q2-earnings.jpg?quality=75&strip=all&1734633047&w=1024",
+    "publishedAt": "2024-12-19T23:50:00Z",
+    "content": "Nike’s results beat modest estimates on Thursday and its shares jumped briefly, but the company soon dashed investor hopes and sent shares lower when a top executive predicted revenues would fall by … [+3276 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Glenn Garner",
+    "title": "Whoopi Goldberg “Tried Hard” To Get ‘Wicked’ Rights In ’90s - Deadline",
+    "description": "After Gregory Maguire's book first came out in 1995, Whoopi Goldberg was one of several to try securing film rights for 'Wicked'.",
+    "url": "http://deadline.com/2024/12/whoopi-goldberg-tried-hard-get-wicked-rights-90s-1236238810/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Whoopi-Goldberg-Wicked.jpg?w=1024",
+    "publishedAt": "2024-12-19T23:45:00Z",
+    "content": "Long before Wicked made the jump from stage to screen, the 1995 Gregory Maguire novel had Hollywood in a frenzy.\r\nJon M. Chu‘s recent movie musical adaptation marks a long journey to the big screen f… [+1757 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Space.com"
+    },
+    "author": "Robert Z. Pearlman",
+    "title": "Russian cosmonauts install X-ray detector, jettison trash on spacewalk outside ISS - Space.com",
+    "description": "Expedition 72 crewmates Alexey Ovchinin and Ivan Vagner completed the last planned spacewalk of 2024 today (Dec. 19).",
+    "url": "https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-x-ray-detector-jettison-trash-on-spacewalk-outside-iss",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/pb26cxkBhNpYL8xXwLajnS-1200-80.jpg",
+    "publishedAt": "2024-12-19T23:37:15Z",
+    "content": "A Russian cosmonaut took a short ride at the end of a robotic arm to jettison spent equipment that he and a crewmate collected during a spacewalk outside the International Space Station today (Dec. 1… [+4198 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HuffPost"
+    },
+    "author": "Curtis M. Wong",
+    "title": "Ethan Slater's Ex-Wife Opens Up About Divorce And Actor's Romance With Ariana Grande - HuffPost",
+    "description": "Lilly Jay broke her silence on her highly scrutinized split from the \"Wicked\" actor in an emotional essay for The Cut.",
+    "url": "https://www.huffpost.com/entry/ethan-slater-ex-wife-lilly-jay-ariana-grande_n_67649082e4b00aa16adf5f68",
+    "urlToImage": "https://img.huffingtonpost.com/asset/6764a42d1b00002600fe953a.jpeg?cache=OFuBX1JIgI&ops=1200_630",
+    "publishedAt": "2024-12-19T23:20:57Z",
+    "content": "Lilly Jay, the ex-wife of Wicked actor Ethan Slater, is sharing her take on the former couples highly scrutinized divorce for the first time publicly. \r\nIn a lengthy essay published by The Cut on Thu… [+4636 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "SEAN MURPHY",
+    "title": "Oklahoma man dies by lethal injection in the nation’s final execution of 2024 - The Associated Press",
+    "description": "An Oklahoma man has been executed for killing a 10-year-old girl in a cannibalistic fantasy. Forty-five-year-old Kevin Ray Underwood was pronounced dead at 10:14 a.m. Thursday at the State Penitentiary in McAlester. It was the 25th and final U.S. execution of…",
+    "url": "https://apnews.com/article/oklahoma-lethal-injection-execution-kevin-underwood-76bd3205976e67f48950eeef732f5130",
+    "urlToImage": "https://dims.apnews.com/dims4/default/a1577fb/2147483647/strip/true/crop/2000x1125+0+105/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F48%2F719969e99a961b33aeb211acb96f%2Fa50d49c48a054f15ba03c546fe6e2741",
+    "publishedAt": "2024-12-19T22:58:00Z",
+    "content": "OKLAHOMA CITY (AP) An Oklahoma man who killed a 10-year-old girl in a cannibalistic fantasy died by lethal injection Thursday in the nations 25th and final execution of the year.\r\nKevin Ray Underwood… [+2731 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hill",
+    "name": "The Hill"
+    },
+    "author": "Mike Lillis, Aris Folley",
+    "title": "Dems say ‘hell no’ to GOP plan B on government funding, debt ceiling - The Hill",
+    "description": "House Democrats are rallying in overwhelming opposition to the Republicans’ second stab at a government funding bill, vowing to sink it on the House floor and force GOP leaders back to the table to negotiate a bipartisan compromise. Huddling behind closed doo…",
+    "url": "https://thehill.com/homenews/house/5049669-democrats-government-shutdown-debt-ceiling/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/jeffrieshakeem_092524gn01_w.jpg?w=1280",
+    "publishedAt": "2024-12-19T22:52:00Z",
+    "content": "House Democrats are rallying in overwhelming opposition to the Republicans’ second stab at a government funding bill, vowing to sink it on the House floor and force GOP leaders back to the table to n… [+4252 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Benj Edwards",
+    "title": "Not to be outdone by OpenAI, Google releases its own “reasoning” AI model - Ars Technica",
+    "description": "Gemini 2.0 Flash Thinking is Google’s take on so-called AI reasoning models.",
+    "url": "https://arstechnica.com/information-technology/2024/12/not-to-be-outdone-by-openai-google-releases-its-own-reasoning-ai-model/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/the_thinker-1152x648.jpg",
+    "publishedAt": "2024-12-19T21:49:53Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Armando Tinoco",
+    "title": "'Superman' Trailer In Photos: Easter Eggs Featured In James Gunn's DC Studios Film - Deadline",
+    "description": "The first trailer for James Gunn's 'Superman' was released and features a lot of Easter eggs for fans.",
+    "url": "https://deadline.com/gallery/superman-trailer-photos-dc-studios/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/superman-2025-trailer-photos.jpg?w=1024",
+    "publishedAt": "2024-12-19T21:30:00Z",
+    "content": "The first trailer for James Gunn’s Superman premiered and showed audiences a preview of the new Man of Steel film set to be released in theaters on July 11, 2025.\r\nGunn previewed the trailer for the … [+1491 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": "Alex Weprin",
+    "title": "Disney to Bring Bluey to Theme Parks in Expansion of Family Franchise - Hollywood Reporter",
+    "description": "Characters from the hit show will also join Disney Cruise Line voyages beginning next month in Australia and New Zealand.",
+    "url": "http://www.hollywoodreporter.com/business/business-news/disney-bluey-disney-world-disneyland-disney-cruise-line-1236091003/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/Bluey-S1_Iconics2_Ludo-Studio.jpg?crop=0px%2C304px%2C2048px%2C1146px&resize=1440%2C810",
+    "publishedAt": "2024-12-19T21:11:15Z",
+    "content": "One of the most popular animated characters in the world is set to make her debut at Walt Disney World and Disneyland next year: Bluey, the heeler dog and star of the hit Disney+ series Bluey.\r\nThe a… [+2075 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "UnitedHealthcare CEO killing latest: Luigi Mangione faces federal charges including stalking, murder - ABC News",
+    "description": null,
+    "url": "https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-mangione-expected-court-extradition/story?id\\\\u003d116936089",
+    "urlToImage": null,
+    "publishedAt": "2024-12-19T20:26:15Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Abc45.com"
+    },
+    "author": "ANISSA REYES | The National News Desk",
+    "title": "Big Lots to close all stores after bankruptcy and failed sale with Nexus Capital - WTVC",
+    "description": "Big Lots is preparing to close all remaining locations, following the closure of hundreds of stores and filing for Chapter 11 bankruptcy.",
+    "url": "https://abc45.com/news/nation-world/big-lots-to-close-all-stores-after-bankruptcy-and-failed-sale-with-nexus-capital-bruce-thorn-closing-down-warn-act-job-loss-unemployment",
+    "urlToImage": "https://abc45.com/resources/media2/16x9/1280/986/center/90/2483386f-752a-4faf-8242-773f0e137211-thumb_167.png",
+    "publishedAt": "2024-12-19T20:12:05Z",
+    "content": "(TNND) Big Lots is preparing to close all remaining locations, following the closure of hundreds of stores and filing for Chapter 11 bankruptcy, the company announced on Thursday.\r\nIn a press release… [+1607 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kristen Rogers",
+    "title": "How stimulating the body’s largest nerve may relieve severe depression - CNN",
+    "description": "Vagus nerve stimulation therapy improved the symptoms of treatment-resistant depression for nearly 500 participants in a major clinical trial.",
+    "url": "https://www.cnn.com/2024/12/19/health/vagus-nerve-stimulation-depression-treatment-wellness/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1434944848-20241217185343925.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-12-19T19:23:00Z",
+    "content": "Sign up for CNNs Stress, But Less newsletter. Our six-part mindfulness guide will inform and inspire you to reduce stress while learning how to harness it.\r\nNick Fournie was 24 years old when severe … [+12470 chars]"
+    }
+    ]
+    }
+    
